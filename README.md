@@ -11,7 +11,6 @@ I made this repo in order to both improve at teaching and teach new programmers 
 - Systems Development Life Cycle
 - Program Design
 - Pseudocode
-- Flowcharts
 - Integrated Development Environment
 - Version Control
 - Hello World!
